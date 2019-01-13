@@ -30,6 +30,8 @@ to bintray:
 ./gradlew bintrayPublish
 ```
 
+If it is successful, open <https://dl.bintray.com/freewind/maven/> to check.
+
 How to use the published package
 -----------------------------------
 
