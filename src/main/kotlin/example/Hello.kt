@@ -1,8 +1,8 @@
 package example
 
 fun main(args: Array<String>) {
-    console.log(hello("Kotlin JS"))
+    hello("Kotlin")
 }
 
-fun hello(name:String) = "Hello, $name!"
+fun hello(name: String) = "Hello, $name!"
 
